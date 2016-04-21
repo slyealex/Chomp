@@ -15,6 +15,9 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'better_errors'
 gem 'geocoder'
+gem 'bourbon'
+gem 'neat'
+gem 'bitters'
 
 
 # Use Unicorn as the app server
